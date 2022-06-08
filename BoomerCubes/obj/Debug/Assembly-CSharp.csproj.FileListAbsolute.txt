@@ -1,0 +1,2 @@
+C:\Users\erdog\Desktop\Ömer\CubeMasterBoom-main\BoomerCubes\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\erdog\Desktop\Ömer\CubeMasterBoom-main\BoomerCubes\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
